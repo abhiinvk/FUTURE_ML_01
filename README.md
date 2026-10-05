@@ -172,8 +172,11 @@ lower-demand periods.
 ## Project Structure
 
 ```text
-Sales-Forecasting/
+FUTURE_ML_01/
 │
-├── Sample - Superstore.csv
+├── data/
+│   └── raw/
+│       └── Sample - Superstore.csv
+│
 ├── sales_forecasting.ipynb
 └── README.md
