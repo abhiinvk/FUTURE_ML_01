@@ -176,7 +176,7 @@ FUTURE_ML_01/
 │
 ├── data/
 │   └── raw/
-│       └── Sample - Superstore.csv
+│       └── Superstore.csv
 │
 ├── sales_forecasting.ipynb
 └── README.md
